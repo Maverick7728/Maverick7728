@@ -15,7 +15,7 @@ I am an aspiring software engineer with a passion for leveraging technology to s
 
 ## Find me around the web 🌎:
 - 📧 Connect with me on **manankhandelwal0145@gmail.com** 
-- 💼 Sharing updates on **[LinkedIn]([https://www.linkedin.com/in/manankhandelwal](https://www.linkedin.com/in/manan-khandelwal-007415251/))**
+- 💼 Sharing updates on **[LinkedIn](https://www.linkedin.com/in/manan-khandelwal-007415251/)**
 
 ---
 
