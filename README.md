@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, AL, and Big Data
 - 🌱 I’m currently learning ML and Web
 - 💞️ I’m looking to collaborate via Email
-- ⚡ Fun fact: yet to discover
+- ⚡ Fun fact: I wasn't initially interested in computer science!
 
 <!---
 Maverick7728/Maverick7728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-I am an aspiring software engineer passionate about leveraging technology to solve real-world problems and make a positive impact. I enjoy working with big data and machine learning models and want to contribute to data science and artificial intelligence. My goal is to contribute to the tech industry by building scalable, user-friendly applications that cater to the needs of users.
+I am an aspiring software engineer passionate about leveraging technology to solve real-world problems and make a positive impact. I enjoy working with big data and machine learning models and want to contribute to data science and artificial intelligence. My goal is to contribute to the tech industry by building scalable, user-friendly applications that cater to users' needs.
 
 
 <h3 align="left">Connect with me:</h3>
