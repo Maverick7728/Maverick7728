@@ -1,3 +1,7 @@
+![Data Science]([https://your-image-url.com/image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.turing.com%2Fkb%2Fhow-is-data-science-application-transforming-industries&psig=AOvVaw0GhY5jLj9xZLelr9fc_4i4&ust=1743963244248000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiu4sa_wYwDFQAAAAAdAAAAABAE))
+
+
+
 ### **👋🏽 Hi, I'm Manan Khandelwal**  
 🔍 **Interests:** Machine Learning, Artificial Intelligence, GenAI, and Big Data  
 🌱 **Currently Learning:** ML, LLMs, and Web Development  
