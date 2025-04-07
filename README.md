@@ -1,4 +1,4 @@
-## **👋🏽 Hi, I'm Manan Khandelwal**  
+## **👋🏽 Hi, I'm Manan **  
 
 <p align="center">
   <img src="https://files.oaiusercontent.com/file-Jh8sXeXtG4F8cC6GGfzCxp?se=2025-04-05T18%3A28%3A54Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=RK3HU%2BilY%2BmbEProEDMp01swVl0VkyoCzIv7h/4ZKIY%3D" alt="Profile Banner" style="width: 60%; height: 400px; object-fit: cover; border-radius: 10px;" />
