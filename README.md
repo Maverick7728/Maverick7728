@@ -84,10 +84,13 @@
 
 ## **🌐 Connect With Me**  
 📧 Email: [manankhandelwal0145.com](mailto:manankhandelwal0145@gmail.com)  
-🎶 LinkedIn: [Manan Khandelwal](https://www.linkedin.com/in/manan-khandelwal-00741)  
+🔗 LinkedIn: [Manan Khandelwal](https://www.linkedin.com/in/manan-khandelwal-00741)  
 📸 Instagram: [@_manan.77](https://www.instagram.com/_manan.77/)  
 
 ---
 
-### **📊 Visitor Count**  
-![Visitor Count](https://komarev.com/ghpvc/?username=Maverick7728&label=Profile%20Views&color=blue&style=flat)  
+## 📊 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maverick7728&label=Profile%20Visitors&color=brightgreen&style=for-the-badge" alt="Profile Visitor Badge"/>
+</p>
