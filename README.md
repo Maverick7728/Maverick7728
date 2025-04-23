@@ -1,4 +1,5 @@
 ## **👋🏽 Hi, I'm Manan Khandelwal**  
+### A Computer Scientist 
 
 🔍 **Interests:** Machine Learning, Artificial Intelligence, GenAI, and Big Data  
 🌱 **Currently Learning:** ML, LLMs, and Web Development  
