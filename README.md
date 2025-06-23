@@ -1,4 +1,4 @@
-## **👋🏽 Hi, I'm Manan Khandelwal**  
+## 👋🏽 Hi, I'm Manan Khandelwal  
 ### A Computer Scientist 
 
 🔍 **Interests:** Machine Learning, Artificial Intelligence, GenAI, and Big Data  
@@ -8,7 +8,7 @@
 
 ---
 
-## **🚀 Skills**  
+## 🚀 Skills  
 
 ### **Programming Languages:**  
 <p align="left">
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/-GenAI-800080?style=flat&logo=openai&logoColor=white" />
 </p>
 
-### **Frontend Development**  
+### **Frontend Development:**  
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -78,8 +78,8 @@
 
 ---
 
-## **🌐 Connect With Me**  
-📧 Email: [manankhandelwal0145.com](mailto:manankhandelwal0145@gmail.com)  
+## 🌐 Connect With Me  
+📧 Email: [manankhandelwal0145@gmail.com](mailto:manankhandelwal0145@gmail.com)  
 🔗 LinkedIn: [Manan Khandelwal](https://www.linkedin.com/in/manan-khandelwal-00741)  
 📸 Instagram: [@_manan.77](https://www.instagram.com/_manan.77/)  
 
@@ -90,3 +90,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maverick7728&label=Profile%20Visitors&color=brightgreen&style=for-the-badge" alt="Profile Visitor Badge"/>
 </p>
+
+---
+
+## 🐍🎮 Play My Snake & Ladder Dev Journey
+
+Experience my learning path with snakes (challenges) and ladders (growth)!
+
+👉 [Click to Play the Game](https://maverick7728.github.io/learning-journey-through-snake-and-ladder/)
