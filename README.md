@@ -97,4 +97,4 @@
 
 Experience my learning path with snakes (challenges) and ladders (growth)!
 
-👉 [Click to Play the Game]([https://maverick7728.github.io/learning-journey-through-snake-and-ladder/](https://maverick7728.github.io/Learning-journey-through-snake-and-ladder/))
+👉 [Click to Play the Game](https://maverick7728.github.io/Learning-journey-through-snake-and-ladder/)
