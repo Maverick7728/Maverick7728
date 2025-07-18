@@ -80,7 +80,7 @@
 
 ## 🌐 Connect With Me  
 📧 Email: [manankhandelwal0145@gmail.com](mailto:manankhandelwal0145@gmail.com)  
-🔗 LinkedIn: [Manan Khandelwal](https://www.linkedin.com/in/manan-khandelwal-00741)  
+🔗 LinkedIn: [Manan Khandelwal](https://www.linkedin.com/in/tech-manan-khandelwal/)  
 📸 Instagram: [@_manan.77](https://www.instagram.com/_manan.77/)  
 
 ---
