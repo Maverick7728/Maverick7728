@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-LLMs-FF6F00?style=flat&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/-GenAI-800080?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" />
 </p>
 
 ### **Frontend Development:**  
@@ -53,7 +54,7 @@
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ### **Software & Tools:**  
@@ -63,11 +64,13 @@
   <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white" />
   <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
 </p>
 
 ### **Hardware & IoT:**  
 <p align="left">
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 </p>
 
 ### **IDEs:**  
